@@ -1,0 +1,11 @@
+p {
+    font-size:12px;
+    font:Courier_New;
+}
+
+h1 {
+    font:Arial;
+    font-size:20;
+    color:red;
+    background-color:rgb(255, 255, 155);
+}
