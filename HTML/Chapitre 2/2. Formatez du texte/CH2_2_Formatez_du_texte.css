@@ -1,11 +1,70 @@
 p {
     font-size:12px;
-    font:Courier_New;
+    font-family:'Courier New', Courier, monospace
 }
 
 h1 {
-    font:Arial;
+    font-family:Arial, Helvetica, sans-serif;
     font-size:20;
     color:red;
     background-color:rgb(255, 255, 155);
+    text-align:center;
+}
+
+.titreviolet {
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:16px;
+    color:purple;
+    margin-top:20px;
+    line-height:20px;
+    text-align:center;
+}
+
+.paragraphes {
+    text-indent:20px;
+    margin-top:25px;
+    margin-bottom:25px;
+    font-size:11px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.listebleue {
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:15px;
+    color:blue;
+    font-weight:700;
+}
+
+.decetteepoque {
+    font-family:'Times New Roman', Times, serif;
+    font-size:12px;
+    font-style:italic;
+    margin-top:10px;
+    margin-bottom:20px;
+    margin-left:1cm;
+    margin-right:1cm;
+}
+
+.typeshominides {
+    font-size:13px;
+    text-decoration:underline;
+}
+
+.premiersparagraphes {
+    text-indent:-12px;
+    margin-top:10px;
+    margin-bottom:20px;
+}
+
+.australopitheques {
+    font-style:italic;
+    text-indent:-10px;
+    margin-top:10px;
+    margin-bottom:20px;
+}
+
+.homosapiens {
+    margin-top:10px;
+    margin-bottom:20px;
+    color:rgb(133, 152, 204)
 }
