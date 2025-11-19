@@ -1,0 +1,19 @@
+.affectationfonds {
+    color:purple
+}
+
+.musique {
+    font-style:italic;
+}
+
+body {
+    background-image: url(images/feuilles.png);
+    background-attachment:fixed;
+    background-size:cover;
+}
+
+p {
+    color:white;
+    font-size:larger
+}
+
