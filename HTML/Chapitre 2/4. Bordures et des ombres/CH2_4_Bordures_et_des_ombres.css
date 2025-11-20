@@ -1,0 +1,33 @@
+
+body {
+    background-color:rgb(87, 87, 87);
+    color:white;
+    text-shadow: 3px 3px 5px black;
+}
+
+
+.erik {
+    background-color: rgba(127,0,0,0.5);
+    background-origin:border-box;
+    background-clip:border-box;
+}
+
+.histoire {
+    background-color: rgba(0,127,0,0.5);
+    background-origin:padding-box;
+    background-clip:padding-box;
+}
+
+.descendance {
+    background-color: rgba(0,0,127,0.5);
+    background-origin:content-box;
+    background-clip:content-box;
+}
+
+article {
+    border: 10px orange dashed;
+    background-image: url(images/pingouin.png);
+    background-repeat:no-repeat;
+    background-size:contain;
+    padding:10px;
+}

@@ -1,19 +1,29 @@
 .affectationfonds {
-    color:purple
+    color:rgb(175, 0, 255);
 }
 
-.musique {
+.chanson {
     font-style:italic;
 }
 
-body {
+.feuilles {
     background-image: url(images/feuilles.png);
-    background-attachment:fixed;
-    background-size:cover;
+    background-attachment:scroll;
+    background-size:repeat;
+}
+
+h1 {
+    color:white;
 }
 
 p {
     color:white;
-    font-size:larger
+    font-size:24px;
 }
 
+.pingouin {
+    background-image: url(images/pingouin.png);
+    background-attachment:fixed;
+    background-position:top;
+    background-repeat:no-repeat;
+}
